@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kodkosesi
 - 👀 I’m interested in coding & math 
 - 🌱 I’m currently learning web development technologies like reactjs, nextjs, django..
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on instagram/kod_kosesi
 
 <!---
